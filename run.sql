@@ -10,4 +10,5 @@ select * from person;
 select * from j_exec;
 
 --truncate table j_exec;
+
 --truncate table person;
