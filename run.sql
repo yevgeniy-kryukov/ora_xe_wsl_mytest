@@ -7,6 +7,7 @@ exception when OTHERS then
 end;
 
 select * from person;
+
 select * from j_exec;
 
 --truncate table j_exec;
